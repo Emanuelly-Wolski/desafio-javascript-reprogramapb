@@ -1,4 +1,4 @@
-#### Desafio concluído por Emanuelly Wolski
+#### Desafio do Reprograma PB 2.0 concluído por Emanuelly Wolski.
 # Repositório com estrutura básica para projeto
 
 Olá!
